@@ -19,7 +19,7 @@ to ensure the following steps have been taken:
 - [ ] If adding new dependencies to the code, are these dependencies licensed in a way that is compatible for inclusion under [ASF 2.0](http://www.apache.org/legal/resolved.html#category-a)? 
 - [ ] If applicable, have you updated the LICENSE file, including the main LICENSE file in opennlp folder?
 - [ ] If applicable, have you updated the NOTICE file, including the main NOTICE file found in opennlp folder?
-
+This PR addresses OPENNLP-XXXX and includes improvements based on the contributor checklist.
 ### For documentation related changes:
 - [ ] Have you ensured that format looks appropriate for the output in which it is rendered?
 
