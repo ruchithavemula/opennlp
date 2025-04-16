@@ -43,7 +43,7 @@ Presently, OpenNLP includes common classifiers such as Maximum Entropy, Perceptr
 
 OpenNLP can be used both programmatically through its Java API or from a terminal through its CLI. 
 OpenNLP API can be easily plugged into distributed streaming data pipelines like Apache Flink, Apache NiFi, Apache Spark.
-
+.............
 ## Useful Links
        
 For additional information, visit the [OpenNLP Home Page](http://opennlp.apache.org/)
