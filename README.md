@@ -37,9 +37,9 @@ These tasks are usually required to build more advanced text processing services
 The goal of the OpenNLP project is to be a mature toolkit for the above mentioned tasks.
 
 An additional goal is to provide a large number of pre-built models for a variety of languages, as
-well as the annotated text resources that those models are derived from.
+well as the annotated text resources that those models are derived from.....
 
-Presently, OpenNLP includes common classifiers such as Maximum Entropy, Perceptron and Naive Bayes.
+Presently, OpenNLP includes common classifiers such as Maximum Entropy, Perceptron and Naive Bayes....
 
 OpenNLP can be used both programmatically through its Java API or from a terminal through its CLI. 
 OpenNLP API can be easily plugged into distributed streaming data pipelines like Apache Flink, Apache NiFi, Apache Spark.
